@@ -6,4 +6,4 @@ pin: true
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+Welcome to a test status page.
